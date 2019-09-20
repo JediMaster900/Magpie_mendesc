@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringExplorer",
+            "request": "launch",
+            "mainClass": "app.StringExplorer",
+            "projectName": "Magpie_mendesc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MagpieRunner",
             "request": "launch",
             "mainClass": "app.MagpieRunner",
